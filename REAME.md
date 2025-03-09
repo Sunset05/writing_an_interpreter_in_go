@@ -1,0 +1,1 @@
+This repository is a step by step guide created by Thorsten Ball to create a simple interpreter for the monkey language in go
